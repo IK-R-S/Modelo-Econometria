@@ -66,5 +66,3 @@ Com **p-valor = 1.00**, não há evidência estatística para rejeitar a hipóte
 
 Com base nos dados coletados, **o turno em que o aluno estuda não influencia significativamente o uso de Inteligência Artificial para apoio nas disciplinas**.
 
-Recomenda-se ampliar a amostra e considerar outras variáveis (como renda, CR ou orientação de professores) para investigações futuras mais aprofundadas.
-
